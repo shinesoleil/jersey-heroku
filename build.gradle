@@ -19,3 +19,6 @@ dependencies {
     compile 'postgresql:postgresql:9.1-901-1.jdbc4'
     compile 'org.eclipse.persistence:eclipselink:2.4.0'
 }
+
+task stage(dependsOn:['build', 'clean'])
+build.mustRunAfter clean

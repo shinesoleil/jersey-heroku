@@ -1,0 +1,1 @@
+web: wget -P build http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-runner/9.1.0.M0/jetty-runner-9.1.0.M0.jar && java -jar build/jetty-runner-9.1.0.M0.jar build/libs/jersey-jetty-starter-kit.war
