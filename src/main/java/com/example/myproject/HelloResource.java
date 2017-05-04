@@ -8,15 +8,14 @@ import javax.ws.rs.core.MediaType;
 
 import org.apache.log4j.Logger;
 
-@Path("example")
-public class ExampleRequest {
+@Path("hello")
+public class HelloResource {
 
-    @Path("{example}")
     @GET
     @Produces(MediaType.TEXT_PLAIN)
-    public String example(@PathParam("example") String example) {
+    public String example() {
         Logger.getLogger(getClass()).info("Working???");
-        return example + "!!!!";
+        return "Hello World";
     }
 
 }
