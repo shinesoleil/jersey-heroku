@@ -12,7 +12,7 @@ public class HelloResource {
     @Produces(MediaType.TEXT_PLAIN)
     public String example() {
 //        Logger.getLogger(getClass()).info("Working???");
-        return "Hello World";
+        return "hello world";
     }
 
 }
