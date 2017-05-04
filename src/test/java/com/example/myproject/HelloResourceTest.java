@@ -19,6 +19,6 @@ public class HelloResourceTest extends JerseyTest {
     @Test
     public void should_() {
         String res = target("/hello").request().get(String.class);
-        assertThat(res, is("Hello World"));
+        assertThat(res, is("hello world"));
     }
 }
