@@ -18,6 +18,13 @@ dependencies {
     compile 'org.eclipse.jetty:jetty-jsp:9.1.0.M0'
     compile 'postgresql:postgresql:9.1-901-1.jdbc4'
     compile 'org.eclipse.persistence:eclipselink:2.4.0'
+
+    // https://mvnrepository.com/artifact/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty
+    testCompile 'org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-jetty:2.25.1'
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.hamcrest:hamcrest-all:1.3'
+
+
 }
 
 task stage(dependsOn:['build', 'clean'])

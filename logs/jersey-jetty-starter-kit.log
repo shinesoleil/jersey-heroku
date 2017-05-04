@@ -1,1 +1,60 @@
-2017-05-04 13-02-23 INFO  [qtp1989780873-19] com.example.myproject.HelloResource  - Working???
+2017-05-04 13-23-17 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @2402ms
+2017-05-04 13-23-18 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-23-18 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@5380c7f0{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-23-18 INFO  [main] org.eclipse.jetty.server.Server  - Started @3879ms
+2017-05-04 13-23-19 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@5380c7f0{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-23-35 INFO  [Test worker] org.eclipse.jetty.util.log  - Logging initialized @1066ms
+2017-05-04 13-23-35 INFO  [Test worker] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-23-35 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@3a66e114{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-23-35 INFO  [Test worker] org.eclipse.jetty.server.Server  - Started @1615ms
+2017-05-04 13-23-35 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@3a66e114{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-26 INFO  [Test worker] org.eclipse.jetty.util.log  - Logging initialized @1649ms
+2017-05-04 13-24-27 INFO  [Test worker] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-24-27 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@29b71cb7{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-27 INFO  [Test worker] org.eclipse.jetty.server.Server  - Started @2691ms
+2017-05-04 13-24-27 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@29b71cb7{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-34 INFO  [Test worker] org.eclipse.jetty.util.log  - Logging initialized @909ms
+2017-05-04 13-24-34 INFO  [Test worker] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-24-34 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@5a78e172{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-34 INFO  [Test worker] org.eclipse.jetty.server.Server  - Started @1413ms
+2017-05-04 13-24-34 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@5a78e172{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-39 INFO  [Test worker] org.eclipse.jetty.util.log  - Logging initialized @1044ms
+2017-05-04 13-24-39 INFO  [Test worker] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-24-39 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@3dcc2cec{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-39 INFO  [Test worker] org.eclipse.jetty.server.Server  - Started @1514ms
+2017-05-04 13-24-40 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@3dcc2cec{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-51 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1555ms
+2017-05-04 13-24-52 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-24-53 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@6ca18a14{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-24-53 INFO  [main] org.eclipse.jetty.server.Server  - Started @2862ms
+2017-05-04 13-24-53 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@6ca18a14{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-25-03 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1368ms
+2017-05-04 13-25-04 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-25-04 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@5380c7f0{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-25-04 INFO  [main] org.eclipse.jetty.server.Server  - Started @2507ms
+2017-05-04 13-25-05 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@5380c7f0{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-26-28 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1495ms
+2017-05-04 13-26-29 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-26-29 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@1999f9e8{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-26-29 INFO  [main] org.eclipse.jetty.server.Server  - Started @2785ms
+2017-05-04 13-26-30 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@1999f9e8{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-05 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1329ms
+2017-05-04 13-28-06 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-28-06 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@51bf5add{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-06 INFO  [main] org.eclipse.jetty.server.Server  - Started @2464ms
+2017-05-04 13-28-06 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@51bf5add{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-24 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1554ms
+2017-05-04 13-28-26 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-28-26 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@57ad8425{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-26 INFO  [main] org.eclipse.jetty.server.Server  - Started @2856ms
+2017-05-04 13-28-26 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@57ad8425{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-36 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1362ms
+2017-05-04 13-28-37 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-28-37 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@4e0cc1f1{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-37 INFO  [main] org.eclipse.jetty.server.Server  - Started @2529ms
+2017-05-04 13-28-37 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@4e0cc1f1{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-46 INFO  [main] org.eclipse.jetty.util.log  - Logging initialized @1448ms
+2017-05-04 13-28-47 INFO  [main] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 13-28-47 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@19b843ba{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 13-28-47 INFO  [main] org.eclipse.jetty.server.Server  - Started @2643ms
+2017-05-04 13-28-48 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@19b843ba{HTTP/1.1}{0.0.0.0:9998}
