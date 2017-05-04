@@ -92,3 +92,14 @@
 2017-05-04 13-59-11 INFO  [main] org.eclipse.jetty.server.Server  - Started @3017ms
 2017-05-04 13-59-11 INFO  [qtp1511909371-26] com.example.myproject.HelloResource  - Working???
 2017-05-04 13-59-11 INFO  [main] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@12f9af83{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 15-09-58 INFO  [Test worker] org.eclipse.jetty.util.log  - Logging initialized @1359ms
+2017-05-04 15-09-58 INFO  [Test worker] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 15-09-58 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@7403464{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 15-09-58 INFO  [Test worker] org.eclipse.jetty.server.Server  - Started @2221ms
+2017-05-04 15-09-59 INFO  [qtp1630839261-17] com.example.myproject.HelloResource  - Working???
+2017-05-04 15-09-59 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@7403464{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 15-09-59 INFO  [Test worker] org.eclipse.jetty.server.Server  - jetty-9.2.14.v20151106
+2017-05-04 15-09-59 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Started ServerConnector@4438da88{HTTP/1.1}{0.0.0.0:9998}
+2017-05-04 15-09-59 INFO  [Test worker] org.eclipse.jetty.server.Server  - Started @2675ms
+2017-05-04 15-09-59 INFO  [qtp670433778-28] com.example.myproject.HelloResource  - Working???
+2017-05-04 15-09-59 INFO  [Test worker] org.eclipse.jetty.server.ServerConnector  - Stopped ServerConnector@4438da88{HTTP/1.1}{0.0.0.0:9998}
