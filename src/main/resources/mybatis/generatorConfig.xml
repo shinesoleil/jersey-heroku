@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <classPathEntry
+            location="/Users/hpan/IdeaProjects/thoughtworks/jersey-web/jersey-jetty-starter-kit/mysql-connector-java-6.0.6.jar"/>
+
+    <context id="DB2Tables" targetRuntime="MyBatis3">
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306?nullNamePatternMatchesAll=true"
+                        userId="mysql"
+                        password="mysql">
+        </jdbcConnection>
+
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+
+        <javaModelGenerator targetPackage="com.example.myproject.model" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"></property>
+            <property name="trimStrings" value="true"></property>
+        </javaModelGenerator>
+
+        <sqlMapGenerator targetPackage="mybatis.mappers" targetProject="src/main/resources">
+            <property name="enableSubPackages" value="true"></property>
+        </sqlMapGenerator>
+
+        <javaClientGenerator targetPackage="com.example.myproject.mapper" targetProject="src/main/java"
+                             type="XMLMAPPER">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+        <!--<table tableName="%">-->
+            <!--<generatedKey column="epa_id" sqlStatement="Mysql" identity="true"/>-->
+        <!--</table>-->
+
+        <table tableName="MYTABLE" schema="MYSCHEMA">
+            <generatedKey column="epa_id" sqlStatement="Mysql" identity="true"/>
+
+        </table>
+
+    </context>
+</generatorConfiguration>

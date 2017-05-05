@@ -1,0 +1,4 @@
+create table PERSON (
+  ID int PRIMARY KEY ,
+  NAME VARCHAR(100) NOT NULL
+);
