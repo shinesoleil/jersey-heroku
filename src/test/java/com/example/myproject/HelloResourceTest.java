@@ -27,4 +27,10 @@ public class HelloResourceTest extends JerseyTest {
         String res = target("/hello/fr").request().get(String.class);
         assertThat(res, is("bonjour"));
     }
+
+    @Test
+    public void should_return_hello_in_qqq() {
+        String res = target("/hello/fr").request().get(String.class);
+        assertThat(res, is("bonjour"));
+    }
 }
